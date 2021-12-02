@@ -13,7 +13,7 @@ Visualizations
 ![My first figure](https://raw.githubusercontent.com/kmj333/Karen-Magana-EDA/main/vis.png)
 ![My second figure](https://raw.githubusercontent.com/kmj333/Karen-Magana-EDA/main/vis2.png)
 
-he first demonstrates the genders of the dogs and the second demonstrates the sizes of the adoptable dogs, which either were small, medium, or large. By this visualization I was able to see that about 2000 medium dogs composed the majority size of dogs in these shelters. For large dogs, there was a slightly bigger amount than small dogs, but each consisted of approximately 500 count.
+The first demonstrates the genders of the dogs and the second demonstrates the sizes of the adoptable dogs, which either were small, medium, or large. By this visualization I was able to see that about 2000 medium dogs composed the majority size of dogs in these shelters. For large dogs, there was a slightly bigger amount than small dogs, but each consisted of approximately 500 count.
 
 
 Analysis
