@@ -5,7 +5,7 @@ I enjoy visiting and providing volunteer work for dogs, and have a dog of my own
 
 ### Data Process
 
-Though this dataset of adoptable dogs from Zurich from Kaggle.com provided enough information to answer my initial research question, there was a lot of missing information for columns that described the friendliness with people of different ages and dogs and compatibility with cats. I decided to exempt the use of such columns along with other columns that were not related to the physical traits of the dogs, and ultimately focused on the ‘color’, ‘size’, and ‘age’ columns. I began with a brief cleaning check in Excel to make sure there weren’t negative values, and found that the available data was accurate. I utilized R Studio to process the categorical columns of data to create a boxplot summary and create plots to summarize dog characteristics
+Though this dataset of adoptable dogs from Hungary found in Kaggle.com provided enough information to answer my initial research question, there was a lot of missing information for columns that described the friendliness with people of different ages and dogs and compatibility with cats. I decided to exempt the use of such columns along with other columns that were not related to the physical traits of the dogs, and ultimately focused on the ‘color’, ‘size’, and ‘age’ columns. I began with a brief cleaning check in Excel to make sure there weren’t negative values, and found that the available data was accurate. I utilized R Studio to process the categorical columns of data to create a boxplot summary and create barplots to summarize the dogs' characteristics
 
 
 ### Visualizations
