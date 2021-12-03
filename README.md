@@ -9,6 +9,7 @@ Though this dataset of adoptable dogs from Hungary found in Kaggle.com provided 
 
 
 ### Visualizations
+![My first figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogagehistogram.png)
 
 ![My first figure](https://raw.githubusercontent.com/kmj333/Karen-Magana-EDA/main/vis.png)
 
