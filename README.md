@@ -1,11 +1,11 @@
 ### Motivation
 
-I enjoy visiting and providing volunteer work for dogs, and have a dog of my own. As I delved into research about dog shelters, I decided to explore what  dogs are less likely to be adopted in a shelter located in Zurich according to some of the characteristics mentioned in Animals That Are Adopted Last (thesprucepets.com). I was also curious as to how accurately my analysis would reinforce how 20% of dogs (Animals That Are Adopted Last (thesprucepets.com) who enter shelters in America are euthanized. 
+I enjoy visiting and providing volunteer work for dogs, and have a dog of my own. As I delved into research about dog shelters, I decided to explore what  dogs are less likely to be adopted in a shelter located in Hungary according to some of the characteristics mentioned in Animals That Are Adopted Last (thesprucepets.com). I was also curious as to how accurately my analysis would reinforce how 20% of dogs (Animals That Are Adopted Last (thesprucepets.com) who enter shelters in America are euthanized. 
 
 
 ### Data Process
 
-Though this dataset of adoptable dogs from Hungary found in Kaggle.com provided enough information to answer my initial research question, there was a lot of missing information for columns that described the friendliness with people of different ages and dogs and compatibility with cats. I decided to exempt the use of such columns along with other columns that were not related to the physical traits of the dogs, and ultimately focused on the ‘color’, ‘size’, and ‘age’ columns. I began with a brief cleaning check in Excel to make sure there weren’t negative values, and found that the available data was accurate. I utilized R Studio to process the categorical columns of data to create a boxplot summary and create barplots to summarize the dogs' characteristics
+Though this dataset of adoptable dogs from Hungary found in Kaggle.com provided enough information to answer my initial research question, there was a lot of missing information for columns that described the friendliness with people of different ages and compatibility with dogs and cats. I decided to exempt the use of such columns along with other columns that were not related to the physical traits of the dogs, and ultimately focused on the ‘color’, ‘size’, and ‘age’ columns. I began with a brief cleaning check in Excel to make sure there weren’t negative values, and found that the available data was accurate. I utilized R Studio to process the categorical columns of data to create a summary of the age of dogs and create barplots to summarize the dogs' characteristics
 
 
 ### Visualizations
