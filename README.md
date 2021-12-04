@@ -1,23 +1,17 @@
 ### Motivation
 
-I enjoy visiting and providing volunteer work for dogs, and have a dog of my own. As I delved into research about dog shelters, I decided to explore what  dogs are less likely to be adopted in a shelter located in Hungary according to some of the characteristics mentioned in Animals That Are Adopted Last (thesprucepets.com). I was also curious as to how accurately my analysis would reinforce how 20% of dogs (Animals That Are Adopted Last (thesprucepets.com) who enter shelters in America are euthanized. 
-
+This dog dataset of sheltered dogs in Hungary sparked my interest, given that I enjoy providing volunteer work for dog shelters and have a dog of my own. As I delved into research about dog shelters, I decided to explore the amount of dogs in this dataset that are less likely to be adopted due to old age, according to some of the ‘unadoptable’ characteristics mentioned in Animals That Are Adopted Last (thesprucepets.com).
 
 ### Data Process
 
-Though this dataset of adoptable dogs from Hungary found in Kaggle.com provided enough information to answer my initial research question, there was a lot of missing information for columns that described the friendliness with people of different ages and compatibility with dogs and cats. I decided to exempt the use of such columns along with other columns that were not related to the physical traits of the dogs, and ultimately focused on the ‘color’, ‘size’, and ‘age’ columns. I began with a brief cleaning check in Excel to make sure there weren’t negative values, and found that the available data was accurate. I utilized R Studio to process the categorical columns of data to create a summary of the age of dogs and create barplots to summarize the dogs' characteristics
+This dataset describes adoptable dogs from Hungary, which can be found in Kaggle.com. Most of the dataset consists of categorical values, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex columns, since there was plenty of missing data for many of the other columns along with the intention to make my investigation more concise. I began with making cleaning checks in Excel for these 2 columns, and no changes were made because my exploratory analysis didn’t require it. I utilized R Studio to create a boxplot of the age of dogs separated by sex, and to create a histogram visualzing the age range.
 
 
 ### Visualizations
+
 ![My first figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogagehistogram.png)
 
-![My first figure](https://raw.githubusercontent.com/kmj333/Karen-Magana-EDA/main/vis.png)
-
-
-![My second figure](https://raw.githubusercontent.com/kmj333/Karen-Magana-EDA/main/vis2.png)
-
-The first demonstrates the genders of the dogs and the second demonstrates the sizes of the adoptable dogs, which either small, medium, or large. By this visualization I was able to see that about 2000 medium dogs composed the majority size of dogs in these shelters. For large dogs, there was a slightly bigger amount than small dogs, but each consisted of approximately 500 count.
-
+My visualization above represents the age range of dogs, which range from less than a year, to up to 24 years of age. 
 
 ### Analysis
 
