@@ -11,7 +11,7 @@ This dataset describes adoptable dogs from Hungary, which can be found in Kaggle
 
 ![My first figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogagehistogram.png)
 
-My visualization above represents the age range of dogs, which range from less than a year, to up to 24 years of age. 
+My visualization above represents the age range of dogs, which range from less than a year old, to approximately to 22 years of age. 
 
 ### Analysis
 
