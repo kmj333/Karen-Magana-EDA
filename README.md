@@ -12,7 +12,7 @@ This dataset describes adoptable dogs from Hungary, which can be found on Kaggle
 
 The visualization above represents the age range of 2938 dogs, which range from less than a year old to approximately 22 years of age. This roughly symmetrical histogram demonstrates a senior age mostly between 5 to 13 years of age with an apparent average of 9 years of age with a standard deviation of 4. Still, there appears to be a significant number of dogs for ages 5 and below. As for dogs of older age, there is more of a tail that illustrates outliers of 16 years and older, which extends to 22 years of age.
 
-To gain a better viwe of the outliers, I created a boxplot of the ages, separated by sex as seen below.
+To gain a better view of the outliers, I created a boxplot of the ages separated by sex, as seen below.
 
 ![My second figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogageboxplot.png)
 
