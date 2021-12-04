@@ -16,7 +16,7 @@ To gain a better view of the outliers, I created a boxplot of the ages separated
 
 ![My second figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogageboxplot.png)
 
-The boxplot above demonstrates that there is more outliers in older age among feamle dogs than male dogs, which is interestingly acccurate in portraying how female dogs have more longevity.
+The boxplot above demonstrates that there is more old age outliers among feamle dogs than male dogs even though there is more males than females, which is interestingly acccurate in portraying how female dogs have more longevity. The male dogs' outliers do lie above 20 years of age, while the female dogs' outlier ages are roughly between 17 and 20. 
 
 ### Analysis
 
