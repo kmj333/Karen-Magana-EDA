@@ -6,7 +6,6 @@ This dog dataset of sheltered dogs in Hungary sparked my interest, given that I 
 
 This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com. Most of the dataset consists of categorical values, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns since there was plenty of missing data for many of the other columns along with the intention to make my investigation more concise. I began with making cleaning checks in Excel for these 2 columns, and no changes were made because my exploratory analysis didn’t require it. I utilized R Studio to apply Tukey's 5 number summary, to make a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
 
-
 ### Visualizations
 
 ![My first figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogagehistogram.png)
@@ -15,8 +14,9 @@ The visualization above represents the age range of dogs, which range from less 
 
 To gain a better viwe of the outliers, I created a boxplot of the ages, separated by sex as seen below.
 
-![My second figure]()
+![My second figure](https://github.com/kmj333/Karen-Magana-EDA/blob/main/dogageboxplot.png)
 
+The boxplot above demonstrates that there is more outliers in older age among feamle dogs than male dogs, which is interestingly acccurate in portraying how female dogs have more longevity.
 
 ### Analysis
 
