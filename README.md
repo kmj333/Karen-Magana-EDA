@@ -15,5 +15,5 @@ My visualization above represents the age range of dogs, which range from less t
 
 ### Analysis
 
-I utilized Tukey's 5 number summary to view a detailed summary of the ages for the only continuous column of the data to gain a better perspective of the age range of the dogs.The youngest was a puppy of .15 years of age and the oldest was 21.92 years old. Both the min and max I think could be classified as outliers since the 1st and 3rd quarter were approximately at 5.8 and 11.2 years of age. The median and mean stood at almost 8.7 and 8.6 years of age. By creating box plot of the summary of age information I was able to make a conclusion.
+I utilized Tukey's 5 number summary to view a detailed summary of the ‘age’ column to gain a more specific age range of the dogs that the histogram couldn't provide.The youngest was a puppy of 0.15 years of age and the oldest was 21.92 years old. Both the min and max can be classified as outliers since the 1st and 3rd quarter were approximately at 5.8 and 11.2 years of age. The median and mean stood at almost 8.7 and 8.6 years of age. Based on this information most of the dogs are seniors, which sadly makes most of these dogs more unlikely to get adopted.
 
