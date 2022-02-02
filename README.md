@@ -4,7 +4,7 @@ This dog dataset of 2938 sheltered dogs in Hungary sparked my interest, given th
 
 ### Data Process
 
-This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com (https://www.kaggle.com/jmolitoris/adoptable-dogs/version/1). Most of the dataset consists of categorical data, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns since there was plenty of missing data for many of the other columns and wanted to make my investigation more concise. I began by making cleaning checks in Excel for these 2 columns, and no changes were made because my exploratory analysis didn’t require it. I utilized R Studio to apply Tukey's 5 number summary, make a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
+This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com (https://www.kaggle.com/jmolitoris/adoptable-dogs/version/1). Most of the dataset consists of categorical data, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns since there was plenty of missing data for many of the other columns and wanted to make my investigation more concise. I began by making cleaning checks in Excel for these 2 columns, and no changes were made because my exploratory analysis didn’t require it. I utilized R to apply Tukey's 5 number summary, to constrcut a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
 
 ### Visualizations
 
