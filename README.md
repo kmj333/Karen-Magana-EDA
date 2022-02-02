@@ -4,7 +4,7 @@ This dog dataset of 2938 sheltered dogs in Hungary sparked my interest, given th
 
 ### Data Process
 
-This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com (https://www.kaggle.com/jmolitoris/adoptable-dogs/version/1). Most of the dataset consists of categorical data, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns due to a lack of missing data from many of the other columns, which in turn allowed for a concise investigation. I began by making cleaning checks in Excel for these 2 columns, where no changes were required for my exploraty analysis. I utilized R to apply Tukey's 5 number summary, to constrcut a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
+This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com (https://www.kaggle.com/jmolitoris/adoptable-dogs/version/1). Most of the dataset consists of categorical data, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns due to a lack of missing data from many of the other columns, which allowed for a concise investigation. I began by making cleaning checks in Excel for these 2 columns, where no changes were required for my exploraty analysis. I utilized R to apply Tukey's 5 number summary, to build a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
 
 ### Visualizations
 
@@ -20,4 +20,4 @@ The boxplot above demonstrates that there is more old age outliers among female 
 
 ### Analysis
 
-I utilized Tukey's 5 number summary to view a detailed summary of the ‘age’ column to gain a more specific age range of the dogs that the histogram couldn't provide. The youngest was a puppy of 0.15 years of age and the oldest was 21.92 years old. Both the min and max can be classified as outliers since the 1st and 3rd quarters were approximately at 5.8 and 11.2 years of age. The median and mean stood at almost 8.7 and 8.6 years of age. Based on this information most of the dogs are seniors, which sadly lowers their likeliness of getting adopted.
+I utilized Tukey's 5 number summary to view a detailed summary of the ‘age’ column to gain a more specific age range of the dogs that the histogram couldn't provide. The youngest was a puppy of 0.15 years of age and the oldest was 21.92 years old. Both the minimum and maximum can be classified as outliers since the 1st and 3rd quarters were approximately at 5.8 and 11.2 years of age. The median and mean stood at almost 8.7 and 8.6 years of age. Based on this information most of the dogs are seniors, which lowers their likeliness of getting adopted.
