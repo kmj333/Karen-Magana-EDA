@@ -1,10 +1,10 @@
 ### Motivation
 
-This dog dataset of 2938 sheltered dogs in Hungary sparked my interest, given that I enjoy providing volunteer work for dog shelters and have a dog of my own. As I delved into research about dog shelters, I decided to explore the number of dogs in this dataset that are less likely to be adopted due to old age, according to some of the ‘unadoptable’ characteristics mentioned in Animals That Are Adopted Last (https://www.thesprucepets.com/animals-adopted-last-4769768).
+This dog dataset of 2938 sheltered dogs in Hungary sparked my interest, given that I enjoy providing volunteer work for dog shelters and have a dog of my own. As I delved into research about dog shelters, I decided to explore the number of dogs in this dataset that are less likely to be adopted due to old age, according to some of the ‘unadoptable’ characteristics mentioned in the article, "Animals That Are Adopted Last" (https://www.thesprucepets.com/animals-adopted-last-4769768).
 
 ### Data Process
 
-This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com (https://www.kaggle.com/jmolitoris/adoptable-dogs/version/1). Most of the dataset consists of categorical data, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns due to a lack of missing data from many of the other columns, which allowed for a concise investigation. I began by making cleaning checks in Excel for these 2 columns, where no changes were required for my exploraty analysis. I utilized R to apply Tukey's 5 number summary, to build a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
+This dataset describes adoptable dogs from Hungary, which can be found on Kaggle.com (https://www.kaggle.com/jmolitoris/adoptable-dogs/version/1). Most of the dataset consists of categorical data, except for the “age” column. I focused my analysis on the ‘age’ and ‘sex'columns due to a lack of missing data from many of the other columns, which allowed for a concise investigation. I began by making cleaning checks in Excel for these 2 columns, where no changes were required for my focused analysis. I utilized R to apply Tukey's 5 number summary, build a boxplot of the 'age' column separated by sex, and to create a histogram visualizing the age range of these dogs.
 
 ### Visualizations
 
